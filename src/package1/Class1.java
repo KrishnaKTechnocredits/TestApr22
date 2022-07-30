@@ -7,7 +7,5 @@ public class Class1 {
 		System.out.println("Project upload branch A");
 		System.out.println("Project upload........A");
 		System.out.println("Project upload--------A");
-		System.out.println("Project upload branch B");
-		System.out.println("Project upload........B");
 	}
 }
