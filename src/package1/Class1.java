@@ -7,6 +7,8 @@ public class Class1 {
 		System.out.println("Project upload........A");
 		System.out.println("Project upload--------A");
 		System.out.println("--------------------------");
-		System.out.println("ON Branch A FOr AUg Batch");
+		System.out.println("----Project upload branch B----");
+		System.out.println("On Branch B line 11");
+		System.out.println("On Branch B Line 12");
 	}
 }
