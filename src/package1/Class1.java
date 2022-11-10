@@ -10,5 +10,6 @@ public class Class1 {
 		System.out.println("----Project upload branch B----");
 		System.out.println("On Branch B line 11");
 		System.out.println("On Branch B Line 12");
+		System.out.println("Scenario 2 Branch B");
 	}
 }
